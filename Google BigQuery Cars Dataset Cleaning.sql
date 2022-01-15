@@ -1,6 +1,6 @@
 
--- Data cleaning using Google BigQuery
--- Used DISTINCT, LENGTH, MIN, MAX & TRIM Functions
+/*  Data cleaning using Google BigQuery
+    Used DISTINCT, LENGTH, MIN, MAX & TRIM Functions */
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
